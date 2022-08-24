@@ -1,10 +1,11 @@
 package com.sdet38.samplemvnproject;
 
-public class sampleclass {
-
-	public static void main(String[] args) {
+public class Sample2 {
 	
-    System.out.println("hello");
+	public static void main(String[] args) {
+		
+	
+		System.out.println("Nothing");
 	}
 
 }
